@@ -13,7 +13,7 @@ class Footer extends React.Component
                             <div className="row">
                                 <div className="col-lg-4 col-sm-12 ft1">
                                     <div className="img-footer-logo">
-                                        <img src="{process.env.PUBLIC_URL + '/assets/images/footer-logo.png'}" alt="No Image Found" />
+                                        <img src={process.env.PUBLIC_URL + '/assets/images/footer-logo.png'} alt="No Image Found" />
                                     </div>
                                     <div className="text-footer">
                                         <p>

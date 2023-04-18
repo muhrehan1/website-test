@@ -5,8 +5,8 @@ import Footer from './Footer';
 function Home() {
     return (
         <div>
+            <Header/>
             <main>
-
                 <div className="content" id="content">
                     <div className="all-content">
                         <section className="home_banner">
@@ -170,6 +170,7 @@ function Home() {
                     </div>
                 </div>
             </main>
+            <Footer/>
         </div>
     );
 }

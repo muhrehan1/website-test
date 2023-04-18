@@ -59,8 +59,9 @@ div#masthead .inner-menu ul li:last-child {
     background: #213027;
     margin-left: 22px;
 }
-div#masthead .inner-menu ul li:last-child a {
+div#masthead .inner-menu ul li:last-child  {
     color: #fff;
+    text-decoration: none;
 }
 
 
@@ -720,6 +721,7 @@ div#footer .ft1 .text-footer p:first-child {
     font-family: aeo;
     color: #181818;
 }
+
 
 
 
